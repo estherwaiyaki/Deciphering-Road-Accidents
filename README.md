@@ -19,14 +19,6 @@ Key stakeholders who will benefit from this project include:
 4. General Public
 
 5. Consumers.
-
-## Authors
-
-- Esther Gakio
-- Baraka Waswa 
-- Anita Bosibori 
-- Andrew Maina
-- Chris Mukiri
   
 ## Project Overview 
 The project aims to develop a model capable of accurately determining the severity of road accidents by unveiling hidden patterns and risk factors that extend beyond conventional understanding and delving into the complexities of accident data  
